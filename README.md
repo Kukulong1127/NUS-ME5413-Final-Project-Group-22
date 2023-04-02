@@ -1,4 +1,4 @@
-# ME5413_Final_Project
+# ME5413_Final_Project_Group_22
 
 NUS ME5413 Autonomous Mobile Robotics Final Project
 > Authors: Christina Lee, Dongen Li, Yuhang Han, and Shuo Sun
